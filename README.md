@@ -13,4 +13,3 @@ being protected.They will allow you, your visting freind and visiting family saf
 your home. Any worries of intruders may dissapearfrom your mind with this app and the device
 it will be linked to</span></p>
 </div>
-
