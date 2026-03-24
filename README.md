@@ -2,21 +2,11 @@
 
 <h2>What this app provides:</h2>
 
-<style>
-  ul {
-    margin-bottom: 20px;
-  }
-  
-  p {
-    margin-top: 20px;
-  }
-</style>
-
 <ul>
-<li>Better protection Through door security.</li>
-<li>Real-time updates on door security analysis.</li>
-<li>Intruder Alerts and notifications.</li>
-<li>Alarm systems that come with the device.</li>
+<ol>Better protection Through door security.</ol>
+<ol>Real-time updates on door security analysis.</ol>
+<ol>Intruder Alerts and notifications.</ol>
+<ol>Alarm systems that come with the device.</ol>
 </ul>
 
 <body>
