@@ -21,63 +21,7 @@ it will be linked to.</p>
 <h2 id="counter">Door Counter</h2>
 <h3>Door counter</h3>   <h3>To be woked on...</h3>
 
-<h2 id="buttons">Buttons</h2>
-<h3>Disable/Enable Counter</h3>
-.toggle-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  font-weight: bold;
-  border: 2px solid #333;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  background-color: #f0f0f0;
-  color: #333;
-}
-
-.toggle-button.active {
-  background-color: #4CAF50;
-  color: white;
-  border-color: #45a049;
-}
-
-.toggle-button.inactive {
-  background-color: #f44336;
-  color: white;
-  border-color: #da190b;
-}
-
-.toggle-button:hover {
-  transform: scale(1.05);
-}
 <h3>Disale/Enable Alarm</h3>
-.toggle-button {
-  padding: 10px 20px;
-  font-size: 16px;
-  font-weight: bold;
-  border: 2px solid #333;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  background-color: #f0f0f0;
-  color: #333;
-}
-
-.toggle-button.active {
-  background-color: #4CAF50;
-  color: white;
-  border-color: #45a049;
-}
-
-.toggle-button.inactive {
-  background-color: #f44336;
-  color: white;
-  border-color: #da190b;
-}
-
-.toggle-button:hover {
-  transform: scale(1.05);
-}
 <h3>Save Counter</h3>
 <h3>Alarm off</h3>
 
