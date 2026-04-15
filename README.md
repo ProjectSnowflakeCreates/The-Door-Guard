@@ -1,4 +1,4 @@
- <h1>Hello User. Welcome to the door Gaurd Website.</h1>
+ <h1>Hello User. Welcome to the Door Gaurd Website.</h1>
 <ul>
   <li><a href="#provides">What this app provides</a></li>
   <li><a href="#counter">Door Counter</a></li>
