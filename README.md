@@ -19,7 +19,11 @@ your home. Any worries of intruders may dissapearfrom your mind with this app an
 it will be linked to.</p>
 </body>
 <h2 id="counter">Door Counter</h2>
-<h3>Door counter</h3>   <h3>To be woked on...</h3>
+<h3>Client 1:Name</h3>
+<h3>Client 2:Name</h3>
+<h3>Client 3:Name</h3>
+<h3>Rename Client Number...</h3>
+<h2>+ Add Client</h2>
 <h2 id="Buttons">Buttons</h2>
 <h3>Disable/Enable Alarm</h3>
 <h4>Completely turns off and on the alarm.</h4>
