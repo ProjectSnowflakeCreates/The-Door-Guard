@@ -24,11 +24,11 @@ it will be linked to.</p>
 <h3>Client 3:Name</h3>
 <h3>Rename Client Number...</h3>
 <h2>+ Add Client</h2>
-<h2 id="Button">Buttons</h2>
+<h2 id="buttons">Buttons</h2>
 <h3>Disable/Enable Alarm</h3>
 <h4>Completely turns off and on the alarm.</h4>
 <h3>Save Counter</h3>
-<h4>Notes counter number and send a notification to the user's device if The number counter updates.</h4>
+<h4>Notes counter number and send a notification to the user's device if the number counter updates.</h4>
 <h3>Alarm off</h3>
 <h4>Turns alarm off when set off.</h4>
 <h3>Access granting</h3>
