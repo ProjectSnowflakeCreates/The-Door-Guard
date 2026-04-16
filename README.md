@@ -2,7 +2,7 @@
 <ol>
   <li><a href="#provides">What this app provides</a></li>
   <li><a href="#counter">Door Counter</a></li>
-  <li><a href="#button">Buttons</a></li>
+  <li><a href="#buttons">Buttons</a></li>
 </ol>
 
 <h2 id="provides">What this app provides</h2>
@@ -25,6 +25,8 @@ it will be linked to.</p>
 <h3>Rename Client Number...</h3>
 <h2>+ Add Client</h2>
 <h2 id="buttons">Buttons</h2>
+<h3>Disable counter</h3>
+<h4>Disables/Enable</h4>counter completely and sets off alarm when Change is made while disabled.</h4>
 <h3>Disable/Enable Alarm</h3>
 <h4>Completely turns off and on the alarm.</h4>
 <h3>Save Counter</h3>
