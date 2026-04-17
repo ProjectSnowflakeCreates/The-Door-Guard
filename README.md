@@ -37,7 +37,10 @@ it will be linked to.</p>
 <h4>Turns alarm off when set off.</h4>
 <h2 id="access granting">Access granting</h2>
 <h3>Grant access to trusted users and allow them to access button for your home on the app and device when in proximity of your home.</h3>
-
+<h2>Account Swapping</h2>
+<h3>Be able to swap to a diffrent account for a diffrent location.</h3>
+<h2>Account Creation</h2>
+<h3>Create a new account For setting up the device in a new location.</h3>
 <p>Note: Buttons are still being worked on.</p>
  <p>This app still needs features to be added and will be tested. Sub-Features will be added until Actual Features are made.</p>
 <p>A better appearance for the app will be added. I will also attempt to add animations for loading screens and other potential features Like log ins and more.</p>
