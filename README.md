@@ -1,9 +1,13 @@
  <h1>Hello User. Welcome to the Door Guard Website.</h1>
 <ol>
   <li><a href="#provides">What this app provides</a></li>
+ <p>Takes you to a list of what the app provides</p>
   <li><a href="#counter">Door Counter</a></li>
+ <p>Takes you to main counter client/s.</p>
   <li><a href="#buttons">Buttons</a></li>
+ <p>Takes you to buttons that change features to the counter.</p>
   <li><a href="#accounts and access granting">Accounts and Access Granting</a></li>
+ <p>Takes you to account creation and swapping buttons and permission granting buttons.</p>
 </ol>
 
 <h2 id="provides">What this app provides</h2>
