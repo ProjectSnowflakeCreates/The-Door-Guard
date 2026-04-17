@@ -1,7 +1,7 @@
  <h1>Hello User. Welcome to the Door Guard Website.</h1>
 <ol>
   <li><a href="#provides">What this app provides</a></li>
- <p>Takes you to a list of what the app provides</p>
+ <p>Takes you to a list of what the app provides.</p>
   <li><a href="#counter">Door Counter</a></li>
  <p>Takes you to main counter client/s.</p>
   <li><a href="#buttons">Buttons</a></li>
