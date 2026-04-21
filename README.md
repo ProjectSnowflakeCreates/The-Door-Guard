@@ -8,6 +8,8 @@
  <p>Takes you to buttons that change features to the counter.</p>
   <li><a href="#accounts and access granting">Accounts and Access Granting</a></li>
  <p>Takes you to account creation and swapping buttons and permission granting buttons.</p>
+ <li><a href="#report">Report issue</a></li>
+  <p>Report a issue which you may have with the app</p>
 </ol>
 
 <h2 id="provides">What this app provides</h2>
@@ -46,6 +48,10 @@ it will be linked to.</p>
 <h4>Be able to swap to a diffrent account for a diffrent location.</h4>
 <h3>Account Creation</h3>
 <h4>Create a new account For setting up the device in a new location.</h4>
+
+<h2 id="report">Report</h2>
+<h3>Have a issue with the app or feel that somethingcould be added to the app? Report it here:</h3>
+<a href="https://projectsnowflakecreates.github.io/The_Door_Guard_Report_Website/">Report Website</a>
 
 <p>Note: Buttons are still being worked on.This app still needs features to be added and will be tested.</p>
 <p>A better appearance for the app will be added. I will also attempt to add animations for loading screens and other potential features Like log ins and more.</p>
