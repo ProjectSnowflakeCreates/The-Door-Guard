@@ -15,7 +15,7 @@
 <h2 id="provides">What this app provides</h2>
 <ul>
 <ol>1. Better protection Through door security.</ol>
-<ol>3. Intruder Alerts and notifications.</ol>
+<ol>2. Intruder Alerts and notifications.</ol>
 <ol>3. Alarm systems that come with the device.</ol>
 <ol>4. Recieve real-time updates on the door counter when changes occur.</ol>
 </ul>
